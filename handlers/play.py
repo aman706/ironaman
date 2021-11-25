@@ -116,7 +116,7 @@ async def nplay(_, message: Message):
     bttn = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url=f"https://t.me/superior_bots")
+                InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url=f"https://t.me/ironman_support1")
             ],[
                 InlineKeyboardButton("🗑", callback_data="close")
             ]
